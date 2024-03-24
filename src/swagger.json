@@ -1,0 +1,127 @@
+openapi: 3.0.0
+info:
+  title: Ejemplo de API
+  description: Una API de ejemplo para mostrar cómo escribir una especificación Swagger/OpenAPI.
+  version: 1.0.0
+servers:
+  - url: https://api.tiburoncin.lat/22596
+paths:
+  /posts:
+    get:
+      summary: Obtiene todos los posts
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    id:
+                      type: integer
+                    title:
+                      type: string
+                    content:
+                      type: string
+    post:
+      summary: Crea un nuevo post
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                title:
+                  type: string
+                content:
+                  type: string
+      responses:
+        '201':
+          description: Created
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: integer
+                  title:
+                    type: string
+                  content:
+                    type: string
+    /{postId}:
+      get:
+        summary: Obtiene un post por su ID
+        parameters:
+          - in: path
+            name: postId
+            required: true
+            schema:
+              type: integer
+        responses:
+          '200':
+            description: OK
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    id:
+                      type: integer
+                    title:
+                      type: string
+                    content:
+                      type: string
+          '404':
+            description: Post no encontrado
+      put:
+        summary: Actualiza un post por su ID
+        parameters:
+          - in: path
+            name: postId
+            required: true
+            schema:
+              type: integer
+        requestBody:
+          required: true
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  title:
+                    type: string
+                  content:
+                    type: string
+        responses:
+          '200':
+            description: OK
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    id:
+                      type: integer
+                    title:
+                      type: string
+                    content:
+                      type: string
+          '404':
+            description: Post no encontrado
+      delete:
+        summary: Elimina un post por su ID
+        parameters:
+          - in: path
+            name: postId
+            required: true
+            schema:
+              type: integer
+        responses:
+          '204':
+            description: No Content
+          '404':
+            description: Post no encontrado
