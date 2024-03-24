@@ -3,11 +3,13 @@ import {
   getAllPosts, getPostById, createPost, updatePost, deletePost,
 // eslint-disable-next-line import/extensions
 } from '../db.js'
+import cors from 'cors'
 
 const app = express()
 const port = 22596
 
 app.use(express.json())
+app.use(cors())
 
 app.get('/', (req, res) => {
   res.send('Hello World!')
