@@ -3,14 +3,18 @@ module.exports = {
         "browser": true,
         "es2021": true
     },
-    "extends": "eslint:recommended",
+    "extends": [
+        "eslint:recommended",
+        "airbnb-base"
+    ],
     "overrides": [
         {
             "env": {
                 "node": true
             },
             "files": [
-                ".eslintrc.{js,cjs}"
+                ".eslintrc.js",
+                ".eslintrc.cjs"
             ],
             "parserOptions": {
                 "sourceType": "script"
@@ -22,5 +26,8 @@ module.exports = {
         "sourceType": "module"
     },
     "rules": {
+        "semi": ["error", "never"], // Esta regla prohíbe el uso de punto y coma en el código
+        "camelcase": "off" // Deshabilitar la regla camelCase por bd
     }
 }
+
