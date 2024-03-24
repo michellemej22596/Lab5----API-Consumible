@@ -2,7 +2,7 @@ import express from 'express'
 import {
   getAllPosts, getPostById, createPost, updatePost, deletePost,
 // eslint-disable-next-line import/extensions
-} from '../db.js'
+} from './db.js'
 import cors from 'cors'
 import swaggerUi from 'swagger-ui-express'
 import swaggerDocument from './swagger.json' // Ruta al archivo de definición de Swagger
