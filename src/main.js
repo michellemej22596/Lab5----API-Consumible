@@ -1,18 +1,19 @@
 import express from 'express'
+import cors from 'cors'
 import {
   getAllPosts, getPostById, createPost, updatePost, deletePost,
 // eslint-disable-next-line import/extensions
 } from './db.js'
-import cors from 'cors'
 import swaggerUi from 'swagger-ui-express'
-import swaggerDocument from './swagger.json' // Ruta al archivo de definición de Swagger
+
 
 const app = express()
 const port = 22596
 
 app.use(express.json())
-app.use(cors())
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument))
+app.use(cors({
+  origin: 'https://tiburoncin.lat'
+}))
 
 app.get('/', (req, res) => {
   res.send('Hello World!')

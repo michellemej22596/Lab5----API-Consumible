@@ -24,3 +24,296 @@ SyntaxError: Unexpected non-whitespace character after JSON at position 15
     at IncomingMessage.emit (node:events:518:28)
     at endReadableNT (node:internal/streams/readable:1696:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/assert:89
+        throw new ERR_IMPORT_ASSERTION_TYPE_MISSING(url, validType);
+              ^
+
+TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module "file:///home/ubuntu/22596/api/src/swagger.json" needs an import attribute of type "json"
+    at validateAttributes (node:internal/modules/esm/assert:89:15)
+    at defaultLoad (node:internal/modules/esm/load:153:3)
+    at async ModuleLoader.load (node:internal/modules/esm/loader:409:7)
+    at async ModuleLoader.moduleProvider (node:internal/modules/esm/loader:291:45) {
+  code: 'ERR_IMPORT_ASSERTION_TYPE_MISSING'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
