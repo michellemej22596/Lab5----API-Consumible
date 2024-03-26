@@ -10,7 +10,7 @@ Instala las dependencias del proyecto utilizando npm: npm install
 
 Antes de ejecutar la API, asegúrate de haber configurado correctamente todas las variables de entorno necesarias. Una vez configuradas las variables de entorno, puedes ejecutar la API con el siguiente comando: npm start
 
-La API estará disponible en https://api.tiburoncin.lat/22596/ por defecto.
+La API estará disponible en https://api.tiburoncin.lat/22596/ por defecto, pero se realizara el fetch desde https://api.tiburoncin.lat/22596/posts 
 
 Contribución Si deseas contribuir a este proyecto, sigue estos pasos:
 
