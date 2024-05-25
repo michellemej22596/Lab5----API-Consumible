@@ -317,3 +317,3877 @@ Node.js v20.11.1
 > api@1.0.0 start
 > node src/main.js
 
+
+> api@1.0.0 start
+> node src/main.js
+
+
+> api@1.0.0 start
+> node src/main.js
+
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/home/ubuntu/22596/api/src/conn' imported from /home/ubuntu/22596/api/src/db.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:917:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1130:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:396:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:365:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:240:38)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:85:39)
+    at link (node:internal/modules/esm/module_job:84:36) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///home/ubuntu/22596/api/src/conn'
+}
+
+Node.js v20.11.1
+
+> api@1.0.0 start
+> node src/main.js
+
+
+> api@1.0.0 start
+> node src/main.js
+
+
+> api@1.0.0 start
+> node src/main.js
+
+
+> api@1.0.0 start
+> node src/main.js
+
