@@ -27,7 +27,8 @@ module.exports = {
     },
     "rules": {
         "semi": ["error", "never"], // Esta regla prohíbe el uso de punto y coma en el código
-        "camelcase": "off" // Deshabilitar la regla camelCase por bd
+        "camelcase": "off", // Deshabilitar la regla camelCase por bd
+ 	"import/extensions": "off"
     }
 }
 
